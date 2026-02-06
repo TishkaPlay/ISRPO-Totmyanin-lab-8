@@ -77,6 +77,4 @@
 
 .gallery-item:hover {
   transform: scale(1.05);
-  color: white;
-  background-color: #4e4e4e;
 }
